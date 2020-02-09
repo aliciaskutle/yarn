@@ -1,0 +1,13 @@
+{
+  "name": "yarnModule",
+  "version": "1.0.0",
+  "description": "To learn more about Yearn",
+  "main": "index.js",
+  "repository": "https://github.com/aliciaskutle/yarn.git",
+  "author": "Alicia Skutle",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
+}
